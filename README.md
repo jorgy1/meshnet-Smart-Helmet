@@ -1,2 +1,2 @@
 # meshnet-Smart-Helmet
-project goal is to create an off the device for voice/data/music
+project goal is to create an off the grid device for voice/data/music
